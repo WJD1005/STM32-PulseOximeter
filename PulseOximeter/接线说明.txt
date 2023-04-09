@@ -1,0 +1,3 @@
+SCL <-> PA9
+SDA <-> PA10
+INT <-> PA1
